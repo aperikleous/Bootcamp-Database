@@ -1,0 +1,11 @@
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\DatabaseLibrary.dll
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\ClassLibrary.dll
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\DatabaseLibrary.pdb
+C:\Users\alex\source\repos\Assignment\Assignment\bin\Debug\ClassLibrary.pdb
+C:\Users\alex\source\repos\Assignment\Assignment\obj\Debug\Individual_Assignment.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Assignment\Assignment\obj\Debug\Individual_Assignment.csproj.CopyComplete
+C:\Users\alex\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\alex\source\repos\Assignment\Assignment\obj\Debug\Assignment.pdb

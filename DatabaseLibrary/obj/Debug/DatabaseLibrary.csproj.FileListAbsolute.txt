@@ -1,0 +1,8 @@
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\bin\Debug\DatabaseLibrary.dll
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\bin\Debug\DatabaseLibrary.pdb
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\obj\Debug\DatabaseLibrary.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\obj\Debug\DatabaseLibrary.csproj.CopyComplete
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\obj\Debug\DatabaseLibrary.dll
+C:\Users\alex\source\repos\Assignment\DatabaseLibrary\obj\Debug\DatabaseLibrary.pdb
